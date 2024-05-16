@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid Uniform",
+        "price": 2000 ,
+        "image": "https://th.bing.com/th/id/OIP.EIkmeMYbyXywF9TwxV2ekQHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 2,
+        "name": "Barselona Uniform",
+        "price": 1000 ,
+        "image": "https://th.bing.com/th/id/OIP.J0yxWtMyXNCDntbH4T778QHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 3,
+        "name": "Bayern Munchen Uniform",
+        "price": 1500 ,
+        "image": "https://sits-pod14-adidas.demandware.net/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw447bacba/zoom/AZ7961_01_laydown.jpg?sw=2000"
+    },
+    {
+        "id": 4,
+        "name": "Manchester United Uniform",
+        "price": 1500 ,
+        "image": "https://th.bing.com/th/id/R.1f17bd153cfc673661e557a08b113d45?rik=4MS6sONyFqOrrQ&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 5,
+        "name": "Liverpul Uniform",
+        "price": 1000 ,
+        "image": "https://www.tfcfootball.com.my/wp-content/uploads/2020/11/CZ2636-687-2048x2048.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Borussiya Dortmunt Uniform",
+        "price": 800 ,
+        "image": "https://www.soccerbox.com/media/catalog/product/cache/e5c18d5f608fefb2b3ef83fcb1922b34/b/o/borussia-dortmund-home-shirt-21-22.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Juventus",
+        "price": 1000 ,
+        "image": "https://th.bing.com/th/id/R.1514b3b52a0393c51c8280819ccc0366?rik=HCw6ghhr64w%2bJQ&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 8,
+        "name": "Milan",
+        "price": 1500 ,
+        "image": "https://th.bing.com/th/id/OIP.nAcUtrBpOtWkWDhUgNzLtQHaHa?w=845&h=845&rs=1&pid=ImgDetMain"
+    }
+]
